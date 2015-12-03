@@ -1,3 +1,5 @@
-/**
- * Created by session1 on 12/3/15.
- */
+$(document).ready(
+    $("#image").click(function(){
+        $("#image").attr('src', "GamePlan%20Pictures/GamePlan%202.png")
+    })
+);
