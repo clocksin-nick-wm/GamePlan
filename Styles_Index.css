@@ -11,9 +11,8 @@
     fill-opacity: 0.75;
 }
 #Navigation{
-    float: left;
-    width: 180px;
-    height: 675px;
+    width: 1425px;
+    height: 27px;
     background-color: #D21620;
 }
 #LoginArea {
@@ -26,4 +25,8 @@
     background-color: #235789;
     height: 1000px;
     width: 100%;
+}
+#Picture_Slider {
+    align-content: center;
+    text-align: center;
 }
