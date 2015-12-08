@@ -1,18 +1,18 @@
 #Header{
-    margin: 0;
-    padding: 0;
+    margin-bottom: 0;
+    margin-top: 4px;
     width: 100%;
-    height: 80px;
+    height: 79px;
     background-color: #46d146;
     fill-opacity: 0.75;
-    border: groove;
+    border-style: groove;
 }
 #Navigation{
-    width: 1425px;
+    width: 100%;
     height: 27px;
     background-color: #D21620;
-    margin: 0;
     padding: 0;
+    fill-opacity: 0.75;
 }
 #LoginArea {
     margin: 0;
@@ -32,4 +32,27 @@
 #Picture_Slider {
     align-content: center;
     text-align: center;
+}
+#Header_Nav{
+    position: fixed;
+    width: 100%;
+    height: 107px;
+    background-color: transparent;
+    z-index: 2;
+}
+#Header_Nav_TEMP{
+
+}
+#TopSpace{
+    width: 100%;
+    height: 1px;
+}
+#Highlighter{
+    background-color: #46d146;
+    width: 116px;
+    height: 80px;
+    margin-left: 20px;
+}
+#Logo{
+    margin-left: 20px;
 }
