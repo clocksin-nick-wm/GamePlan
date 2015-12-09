@@ -74,3 +74,9 @@
     width: 600px;
     height: 300px;
 }
+#Name{
+    width: 100%;
+    height: 115px;
+    background-color: #235789;
+    margin-bottom: 1px;
+}
