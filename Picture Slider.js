@@ -1,3 +1,7 @@
+$("#image1").fadeOut(0.001);
+$("#image2").fadeOut(0.001);
+$("#image3").fadeOut(0.001);
+$("#image4").fadeOut(0.001);
 $(document).ready( function () {
     function image() {
     $("#image1").fadeIn(800).delay(800).fadeOut(300);

@@ -4,7 +4,7 @@
     width: 100%;
     height: 79px;
     background-color: #46d146;
-    fill-opacity: 0.75;
+    opacity: 0.75;
     border-style: groove;
 }
 #Navigation{
@@ -12,7 +12,7 @@
     height: 27px;
     background-color: #D21620;
     padding: 0;
-    fill-opacity: 0.75;
+    opacity: 0.75;
 }
 #LoginArea {
     margin: 0;
@@ -30,15 +30,17 @@
     padding: 0;
 }
 #Picture_Slider {
-    align-content: center;
-    text-align: center;
+    width: 600px;
+    height: 342px;
+    margin-top: 116px;
+    background-color: #235789;
 }
 #Header_Nav{
     position: fixed;
     width: 100%;
     height: 107px;
     background-color: transparent;
-    z-index: 2;
+    z-index: 20;
 }
 #Header_Nav_TEMP{
 
@@ -55,4 +57,20 @@
 }
 #Logo{
     margin-left: 20px;
+}
+#image1{
+    width: 600px;
+    height: 300px;
+}
+#image2{
+    width: 600px;
+    height: 170px;
+}
+#image3{
+    width: 600px;
+    height: 342px;
+}
+#image4{
+    width: 600px;
+    height: 300px;
 }

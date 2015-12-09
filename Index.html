@@ -12,16 +12,15 @@
     <div id="Header_Nav">
         <div id="Header">
         <!-- script link for highlight for picture and following header. -->
-                <script type="javascript" src="Following_Header.js"></script>
-                <script>
-                    //for highlighting the GamePlan logo
-                    function Highlight() {
-                        document.getElementById("Logo").style.opacity = "0.35";
-                    }
-                    function UnHighlight() {
-                        document.getElementById("Logo").style.opacity = "1";
-                    }
-                </script>
+            <script>
+                //for highlighting the GamePlan logo
+                function Highlight() {
+                    document.getElementById("Logo").style.opacity = "0.35";
+                }
+                function UnHighlight() {
+                    document.getElementById("Logo").style.opacity = "1";
+                }
+            </script>
                 <img id="Logo" src="GamePlan_logo_2.png" style="height: 80px; width: 116px;" alt="Logo" onmouseover="Highlight()" onmouseout="UnHighlight()">
         <!-- Main Header should go here -->
         <div id="LoginArea" style="color: white;">
@@ -35,11 +34,11 @@
     </div>
 </div>
     <!-- This is where everything inside the Main div will go that's not inside the header or navigation -->
-    <div id="Picture_Slider" style="width: 600px; height: 300px; margin-top: 107px; z-index: 1;">
+    <div id="Picture_Slider">
         <img src="GamePlan%20Pictures/GamePlan%201.jpg" id="image1">
         <img src="GamePlan%20Pictures/GamePlan%202.png" id="image2">
-        <img src="GamePlan%20Pictures/GamePlan%203.jpg" id="image3" style="height: 300px; width: 600px;">
-        <img src="GamePlan%20Pictures/GamePlan%204.jpg" id="image4" >
+        <img src="GamePlan%20Pictures/GamePlan%203.jpg" id="image3">
+        <img src="GamePlan%20Pictures/GamePlan%204.jpg" id="image4">
 
     </div>
 <script src="jquery.js" type="text/javascript"></script>
