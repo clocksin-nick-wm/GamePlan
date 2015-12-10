@@ -85,3 +85,11 @@
     height: 272px;
     background-color: #D21620;
 }
+#description{
+    float: left;
+    margin-left: 25px;
+    margin-top: 3px;
+    width: 300px;
+    height: 272px;
+    background-color: white;
+}
