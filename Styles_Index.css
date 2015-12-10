@@ -14,6 +14,14 @@
     padding: 0;
     opacity: 0.75;
 }
+.NavigationBox{
+    height: 27px;
+    width: 95px;
+    margin-right: 3px;
+    margin-left: 3px;
+    background-color: #b01621;
+    float: left;
+}
 #LoginArea {
     margin: 0;
     padding: 0;
@@ -93,7 +101,7 @@
 }
 #Event_Info_Index{
     width: 32%;
-    height: 500px;
+    height: 700px;
     margin-left: 10px;
     background-color: #FDFFFC;
     float: left;
@@ -101,7 +109,7 @@
 }
 #AboutUs_Info_Index{
     width: 32%;
-    height: 500px;
+    height: 700px;
     margin-left: 10px;
     background-color: #1D279B;
     float: left;
@@ -109,7 +117,7 @@
 }
 #News_Info_Index {
     width: 32%;
-    height: 500px;
+    height: 700px;
     margin-left: 10px;
     background-color: #FDFFFC;
     float: left;
