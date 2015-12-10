@@ -14,6 +14,14 @@
     padding: 0;
     opacity: 0.75;
 }
+.NavigationBox{
+    height: 27px;
+    width: 125px;
+    margin-right: 3px;
+    margin-left: 3px;
+    background-color: #b01621;
+    float: left;
+}
 #LoginArea {
     margin: 0;
     padding: 0;
@@ -30,8 +38,7 @@
     padding: 0;
 }
 #Picture_Slider {
-    margin-left: 12%;
-    width: 600px;
+    width: 100%;
     height: 342px;
     margin-top: 116px;
     background-color: #235789;
@@ -57,20 +64,26 @@
     margin-left: 20px;
 }
 #image1{
-    width: 600px;
-    height: 300px;
+    width: 75%;
+    height: 342px;
+    margin-left: 12.5%;
 }
 #image2{
-    width: 600px;
-    height: 170px;
+    width: 100%;
+    height: 342px;
 }
 #image3{
-    width: 600px;
+    width: 100%;
     height: 342px;
 }
 #image4{
-    width: 600px;
-    height: 300px;
+    width: 75%;
+    height: 342px;
+    margin-left: 12.5%;
+}
+#image5{
+    width:100%;
+    height: 342px;
 }
 #Name{
     width: 100%;
@@ -93,7 +106,7 @@
 }
 #Event_Info_Index{
     width: 32%;
-    height: 500px;
+    height: 700px;
     margin-left: 10px;
     background-color: #FDFFFC;
     float: left;
@@ -101,7 +114,7 @@
 }
 #AboutUs_Info_Index{
     width: 32%;
-    height: 500px;
+    height: 700px;
     margin-left: 10px;
     background-color: #1D279B;
     float: left;
@@ -109,7 +122,7 @@
 }
 #News_Info_Index {
     width: 32%;
-    height: 500px;
+    height: 700px;
     margin-left: 10px;
     background-color: #FDFFFC;
     float: left;
