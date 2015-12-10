@@ -30,6 +30,7 @@
     padding: 0;
 }
 #Picture_Slider {
+    margin-left: 12%;
     width: 600px;
     height: 342px;
     margin-top: 116px;
@@ -85,6 +86,36 @@
     height: 272px;
     background-color: #D21620;
 }
+<<<<<<< HEAD
+#Space_1{
+    width: 100%;
+    height: 5px;
+    background-color: #235789;
+}
+#Event_Info_Index{
+    width: 32%;
+    height: 500px;
+    margin-left: 10px;
+    background-color: #FDFFFC;
+    float: left;
+    color: #1D279B;
+}
+#AboutUs_Info_Index{
+    width: 32%;
+    height: 500px;
+    margin-left: 10px;
+    background-color: #1D279B;
+    float: left;
+    color: #FDFFFC;
+}
+#News_Info_Index{
+    width: 32%;
+    height: 500px;
+    margin-left: 10px;
+    background-color: #FDFFFC;
+    float: left;
+    color: #1D279B;
+=======
 #description{
     float: left;
     margin-left: 25px;
@@ -92,4 +123,5 @@
     width: 300px;
     height: 272px;
     background-color: white;
+>>>>>>> bf78b05929b845304918958b782d23035fc69d55
 }
