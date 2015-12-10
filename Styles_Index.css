@@ -86,7 +86,6 @@
     height: 272px;
     background-color: #D21620;
 }
-<<<<<<< HEAD
 #Space_1{
     width: 100%;
     height: 5px;
@@ -108,14 +107,14 @@
     float: left;
     color: #FDFFFC;
 }
-#News_Info_Index{
+#News_Info_Index {
     width: 32%;
     height: 500px;
     margin-left: 10px;
     background-color: #FDFFFC;
     float: left;
     color: #1D279B;
-=======
+}
 #description{
     float: left;
     margin-left: 25px;
@@ -123,5 +122,4 @@
     width: 300px;
     height: 272px;
     background-color: white;
->>>>>>> bf78b05929b845304918958b782d23035fc69d55
 }
