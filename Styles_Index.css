@@ -43,6 +43,22 @@ a > p{
 #LoginArea a:visited{
     color: #2fff27;
 }
+#News_Info_Index li{
+    text-decoration: none;
+}
+#Event_Info_Index p{
+    color: black;
+}
+#Event_Info_Index a:link{
+    text-decoration: none;
+    color: blue;
+    font-size: 40px;
+}
+#Event_Info_Index a:visited{
+    text-decoration: none;
+    color: blue;
+    font-size: 40px;
+}
 #Main{
     background-color: #235789;
     height: 1500px;
