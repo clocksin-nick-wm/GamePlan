@@ -13,6 +13,8 @@
     background-color: #D21620;
     padding: 0;
     opacity: 0.75;
+    text-align: center;
+    align-content: center;
 }
 .NavigationBox{
     height: 27px;
@@ -22,6 +24,9 @@
     background-color: #b01621;
     float: left;
 }
+a > p{
+    text-decoration: none;
+}
 #LoginArea {
     margin: 0;
     padding: 0;
@@ -29,6 +34,14 @@
     width: 180px;
     height: 80px;
     background-color: #1D279B;
+}
+#LoginArea a:link {
+    color: #2fff27;
+    text-decoration: none;
+}
+
+#LoginArea a:visited{
+    color: #2fff27;
 }
 #Main{
     background-color: #235789;
