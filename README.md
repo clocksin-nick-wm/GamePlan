@@ -1,5 +1,7 @@
 # GamePlan
 
+There is an error with the News list, could not remove dots from the list portion.
+
 Marques DeHerrera, Nick Clocksin, and Corbin Cunningham
 
 The GamePlan is a registration designed website used to incorporate the buying and attendance of big Gaming conference.
